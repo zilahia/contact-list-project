@@ -1,21 +1,15 @@
-[submodule "contact-list-integration-tests"]
-	path = integration-tests
-	url = https://github.com/andieri/Contact_list.git
 [submodule "contact-list"]
 	path = contact-list
 	url = https://github.com/zsoltvad/contact-list.git
 [submodule "contact-list-api"]
 	path = contact-list-api
-	url = https://github.com/zsoltvad/contact-list.git
+	url = https://github.com/zsoltvad/contact-list-api.git
 [submodule "repository-interface"]
 	path = repository-interface
 	url = https://github.com/yodeah/RepositoryInterface.git
-[submodule "RepositoryImplementation"]
+[submodule "repository-implementation"]
 	path = repository-implementation
 	url = https://github.com/LajosKoblos/RepositoryImplementation
 [submodule "integration-tests"]
 	path = integration-tests
 	url = https://github.com/andieri/Contact_list.git
-[submodule "repository-implementation"]
-	path = repository-implementation
-	url = https://github.com/LajosKoblos/RepositoryImplementation
