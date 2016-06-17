@@ -6,10 +6,16 @@
 	url = https://github.com/zsoltvad/contact-list.git
 [submodule "contact-list-api"]
 	path = contact-list-api
-	url = https://github.com/zsoltvad/contact-list-api.git
+	url = https://github.com/zsoltvad/contact-list.git
 [submodule "repository-interface"]
-	path = contact-list
+	path = repository-interface
 	url = https://github.com/yodeah/RepositoryInterface.git
 [submodule "RepositoryImplementation"]
+	path = repository-implementation
+	url = https://github.com/LajosKoblos/RepositoryImplementation
+[submodule "integration-tests"]
+	path = integration-tests
+	url = https://github.com/andieri/Contact_list.git
+[submodule "repository-implementation"]
 	path = repository-implementation
 	url = https://github.com/LajosKoblos/RepositoryImplementation
